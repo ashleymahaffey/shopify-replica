@@ -1,0 +1,97 @@
+/* Headings */
+
+.grey {
+  background-color: #637381;
+}
+
+h1, h2, p {
+  padding-top: 10px;
+  color: white;
+  text-align: center;
+  padding-top: 10px;
+  font-family: ShopifySans, Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  font-size: 1.75em;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+h3 {
+  font-size: 16px;
+  padding-top: 10px;
+}
+
+h4, .form {
+  padding-top: 10px;
+  text-align: center;
+}
+
+h5 {
+  font-size: 14px;
+  padding-bottom: 20px;
+}
+
+p {
+  font-size: .75em;
+}
+
+.block-content {
+  font-size: 16px;
+}
+
+.logo {
+  padding-top: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 8%;
+}
+
+input {
+  padding-top: 10px;
+  width: 30%;
+  height: 50px;
+  border-radius: 5px;
+}
+
+.preview {
+  padding-top: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.flex-container {
+  margin-left: 250px;
+  margin-right: 250px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  display: flex;
+  justify-content: center;
+}
+
+.testimonial {
+  margin-left: 350px;
+  margin-right: 350px;
+  text-align:center;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+footer {
+  padding-right: 250px;
+  padding-top: 80px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  text-align: right;
+}
+
+a.terms {
+  padding: 0 0 0 15px;
+}
